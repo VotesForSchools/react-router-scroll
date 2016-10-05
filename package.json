@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/taion/react-router-scroll#readme",
   "dependencies": {
-    "history": "^2.1.2",
+    "history": "^4.3.x",
     "scroll-behavior": "^0.8.0",
     "warning": "^3.0.0"
   },
